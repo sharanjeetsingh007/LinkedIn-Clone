@@ -1,0 +1,10 @@
+.LoadingSpinnerMain {
+  /* border: 2px solid red; */
+  background: rgba(0, 0, 0, 0.3); /* position: absolute; */
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 100vw;
+  height: 100vh;
+  top: -19px;
+}
