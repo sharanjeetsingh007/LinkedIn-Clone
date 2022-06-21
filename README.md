@@ -1,7 +1,7 @@
 ## Overview
 
-The project is created to illustrate the Front-end skills by imitatiing LinkedIn<br />
-The web app can easily perform CRUD operations as wellas Google and email Authentication<br />
+The project is created to illustrate the Front-end skills by imitatiing LinkedIn.<br />
+The web app can easily perform CRUD operations as well as Google and email Authentication.<br />
 
 ## Technology Used
 
